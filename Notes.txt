@@ -1,0 +1,17 @@
+Xogy Browser
+
+
+Version: beta 1 - Moment 1
+
+
+Thank you for downloading Xogy Browser.
+For now Xogy doesn't have:
+
+	- Download
+	- Auto complete URL
+	- "Modern" UI
+	- Complete stability (example: Youtube (videos) doesn't work...)
+
+I'm working on making this project better...
+
+Xogy by fmDXP (on github)
